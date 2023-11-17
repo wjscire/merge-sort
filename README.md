@@ -1,2 +1,2 @@
 # merge-sort
-Implementations of merge sort in various languages.
+Implementations of merge sort in Java, C, and Python.
